@@ -33,6 +33,15 @@ h2 {
 	line-height: 27.5px;
 	padding-bottom: 30PX;
 }
+.textFontMinimalPadding{
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 17px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 27.5px;
+	padding-bottom: .5%;
+}
 
 .nameIntroduction{
 	text-align: center;
@@ -64,5 +73,10 @@ h2 {
 .h3{
 	color:#2c3e50;
 	font-style: bold;
+}
+
+.tab{
+	/*text-indent: 40px;*/
+	padding-left: 5%;
 }
 
